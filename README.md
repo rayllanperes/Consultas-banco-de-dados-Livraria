@@ -106,7 +106,8 @@ order by sum(quantidade) desc;
 
 Resultado obtido: 
 
-![image](https://github.com/user-attachments/assets/dc2a8a27-2dad-4388-826a-4ba8ee81a0f5)
+![image](https://github.com/user-attachments/assets/f1c48333-844f-40ac-b770-fe67345da0f3)
+
 
 
 
