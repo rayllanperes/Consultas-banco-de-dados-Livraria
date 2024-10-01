@@ -1,0 +1,13 @@
+#Implemente uma consulta para listar o quantitativo de livros cadastrados,
+independentemente da editora:
+
+Código utilizado:
+
+show databases;
+use livraria;
+show tables;
+select * from livro;
+select count(idLivro) from livro;
+
+Resultado da consulta: 
+
